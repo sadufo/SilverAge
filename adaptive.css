@@ -1,0 +1,20 @@
+@media screen and (min-width: 280px) and (max-width: 390px) {
+  .aboutus {
+    display: none; }
+
+  .info {
+    display: none; }
+
+  .buy {
+    display: none; }
+
+  .sell {
+    display: none; }
+
+  .forma {
+    display: none; }
+
+  .footer {
+    display: none; } }
+
+/*# sourceMappingURL=adaptive.css.map */
