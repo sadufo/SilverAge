@@ -498,6 +498,12 @@
                     background-color: #fff;
                     font-family: $font-monserat;
                     font-size: 3vh;
+                    
+                }
+                button:hover{
+                    background: black;
+                    border: solid 2px white;
+                    color: white;
                 }
             }
         }

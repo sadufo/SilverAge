@@ -403,5 +403,9 @@
         background-color: #fff;
         font-family: "monserat";
         font-size: 3vh; }
+      .footer .soclinks .buttonlink button:hover {
+        background: black;
+        border: solid 2px white;
+        color: white; }
 
 /*# sourceMappingURL=main.css.map */
